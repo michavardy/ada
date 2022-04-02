@@ -18,6 +18,6 @@ RUN python -m pip install -r requirements.txt
 WORKDIR /app
 ADD . /app
 ARG FLASK_APP=app
-CMD ["flask", "run"]
+CMD ["python","-m","flask", "run","--host", "0.0.0.0","--port","5000"]
 
 #CMD ["gunicorn", "app:app", "--host", "0.0.0.0", "--port", "5000"]

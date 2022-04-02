@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50"
+   height="50"
+   viewBox="0 0 13.229167 13.229167"
+   version="1.1"
+   id="svg36368"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="ballistic_test.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview36370"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="11.702245"
+     inkscape:cx="39.69324"
+     inkscape:cy="28.327899"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs36365" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#9dac93;fill-opacity:1;stroke-width:0.0114189"
+       d=""
+       id="path83180"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#000000;stroke-width:0.0665574"
+       d="m 5.6495281,12.538197 c 0,-0.05491 0.044923,-0.09984 0.099836,-0.09984 0.054911,0 0.099837,-0.04586 0.099837,-0.101924 0,-0.05606 -0.044923,-0.119166 -0.099837,-0.140237 -0.086855,-0.03333 -0.099792,-0.459225 -0.099495,-3.2758647 L 5.6501959,5.6827801 5.8141713,5.4165503 c 0.144318,-0.2343148 0.164224,-0.3440234 0.1660528,-0.915165 l 0.00206,-0.6489351 h 0.665578 0.6655739 v 0.6349475 c 0,0.5035993 0.027535,0.6889238 0.1331153,0.895874 0.1277517,0.2504134 0.1331153,0.392274 0.1331153,3.5209653 0,2.101564 -0.023653,3.274656 -0.06656,3.301173 -0.036605,0.02262 -0.06656,0.08606 -0.06656,0.140971 0,0.05491 0.029946,0.08132 0.06656,0.0587 0.036605,-0.02262 0.06656,0.02053 0.06656,0.09591 0,0.132051 -0.035151,0.137042 -0.9650833,0.137042 -0.8134801,0 -0.9650833,-0.01568 -0.9650833,-0.09984 z M 6.07035,3.1369578 C 6.142715,2.1192119 6.4910247,0.5911354 6.6506419,0.5911354 c 0.1503156,0 0.4829942,1.5035626 0.5706517,2.5791013 l 0.044754,0.5490988 H 6.6474954 6.0289428 Z"
+       id="path83508" />
+  </g>
+</svg>

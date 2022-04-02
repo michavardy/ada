@@ -1,6 +1,9 @@
 itsdangerous==2.0.1
 jinja2==3.0.3
+werkzeug==0.16.1
+connexion==2.6.0
 flask==1.1.1
 gunicorn==20.0.4
+pandas
 flask-mongoengine
 

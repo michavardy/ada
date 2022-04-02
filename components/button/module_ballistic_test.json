@@ -1,0 +1,14 @@
+{
+    "component_id":1,
+    "component_name":"ballistic_test",
+    "component_location":"module",
+    "component_type":"button",
+    "component_title":"ballistic_test",
+    "component_description":"ballistic_test",
+    "state_key":"button_module",
+    "state_isActive":true,
+    "state_name":"button_ballistic_test",
+    "state_activation_dependency_obj":{},
+    "button_hasIcon":true,
+    "button_icon_path":"..\\icons\\ballistic_test.svg"
+}
