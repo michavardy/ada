@@ -30,8 +30,8 @@ services:
         dockerfile: Dockerfile
     #command: gunicorn --bind 0.0.0.0:5000 app:app
     ports:
-        - "5000:5000"
-    container_name: backend
+        - "80:80"
+    container_name: api
     restart: always
     environment:
         MONGODB_HOST: mongodb
@@ -39,8 +39,8 @@ services:
         MONGODB_PASSWORD: "apipassword"
     volumes:
         - appdata:/var/www/
-    depends_on: 
-        - mongodb
+    #depends_on: 
+    #    - mongodb
     networks:
         - frontend
         - backend
